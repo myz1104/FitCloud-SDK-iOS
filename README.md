@@ -48,9 +48,7 @@
 > FitCloud.h // sdk核心文件
    
  ---
-####3、SDK资源下载地址   
->  [sdk下载地址](https://github.com/myz1104/FitCloud-SDK.git)
-
+####3、demo下载地址   
 >  [demo下载地址](https://github.com/myz1104/FCDemo.git)
 
 ---
